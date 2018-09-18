@@ -3,7 +3,7 @@
 import Vue from 'vue'
 import App from './App'
 import router from './router'
-import Iview from 'iview'
+import iView from 'iview'
 import VueLazyload from 'vue-lazyload'
 import 'iview/dist/styles/iview.css';
 import store from './store'
